@@ -1,0 +1,67 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+.Container {
+  width: 1000px;
+  margin: auto;
+}
+
+.Title{
+    font-size: 2em;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.Subtitle{
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+}
+
+p{
+    font-size: 1.2em;
+    color: #333;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 10px;
+    max-width: 60%;
+}
+
+.Highlight{
+    color: #854bf0;
+}
+
+img{
+    display: block;
+    margin-top: 20px;
+}
+
+#mando{
+    width: 100%;
+    margin-right: 10px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+#mando_art{
+    width: 60%;
+    margin-left: 10px;
+    text-align: left;
+}
+
+.Title_2{
+    font-size: 2em;
+    font-weight: bold;
+    color: #854bf0;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 10px;
+}
